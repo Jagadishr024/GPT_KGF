@@ -4,9 +4,11 @@ LIst Of Candidates
 3.vidhya
 4.seenu
 5.ravi
-6.Byra
+
 7.kiran
 8.manju
 9.siva
 10.Bhaskar
-
+11.raghu
+12.manoj
+13.raju
